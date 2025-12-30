@@ -19,7 +19,8 @@ const getIconName = (emoji?: string): string => {
     '💼': 'linkedin',
     '🔗': 'link',
     '📱': 'phone',
-    '🌐': 'website'
+    '🌐': 'website',
+    '🖋️': 'website'  // 博客图标映射到网站图标
   };
 
   return iconMap[emoji] || 'link';

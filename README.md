@@ -1,4 +1,4 @@
-# Preason Vite - 个人介绍页
+# Person Vite - 个人介绍页
 
 一个基于 Vite + React + TypeScript 构建的个性化个人介绍页面。
 
@@ -15,7 +15,7 @@
 
 ### 安装依赖
 ```bash
-cd preason-vite
+cd person-vite
 npm install
 ```
 
@@ -38,7 +38,7 @@ npm run preview
 ## 📁 项目结构
 
 ```
-preason-vite/
+person-vite/
 ├── src/
 │   ├── components/          # React 组件
 │   │   ├── Avatar.tsx       # 头像组件
@@ -71,7 +71,7 @@ preason-vite/
 ### 4. 列表类型
 默认包含三个列表：
 - **技能专长** (⚡) - 展示你的技术技能
-- **项目经历** (🚀) - 展示你的项目经验  
+- **项目经历** (🚀) - 展示你的项目经验
 - **兴趣爱好** (❤️) - 展示你的个人兴趣
 
 你可以在设置中添加更多自定义列表项。

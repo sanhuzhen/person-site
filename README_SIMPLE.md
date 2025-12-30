@@ -1,4 +1,4 @@
-# Preason Vite - 个人介绍页
+# Person Vite - 个人介绍页
 
 一个简洁的个人介绍页面，所有配置都在一个文件中完成。
 
@@ -29,7 +29,7 @@
 
 ### 2. 启动项目
 ```bash
-cd D:\vsProjects\preason-vite
+cd D:\vsProjects\person-vite
 npm run dev
 ```
 

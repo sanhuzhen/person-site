@@ -1,11 +1,11 @@
-# 🎉 Preason Vite 项目创建完成！
+# 🎉 Person Vite 项目创建完成！
 
 ## 📋 项目概览
 
-**项目名称**: Preason Vite  
-**项目类型**: 个人介绍页  
-**技术栈**: React + TypeScript + Vite  
-**创建时间**: 2025年12月29日  
+**项目名称**: Person Vite
+**项目类型**: 个人介绍页
+**技术栈**: React + TypeScript + Vite
+**创建时间**: 2025年12月29日
 
 ## ✅ 已完成的功能
 
@@ -38,7 +38,7 @@
 ## 📁 文件结构
 
 ```
-preason-vite/
+person-vite/
 ├── src/
 │   ├── components/
 │   │   ├── Avatar.tsx & .css
@@ -63,7 +63,7 @@ preason-vite/
 
 ### 开发模式
 ```bash
-cd D:\vsProjects\preason-vite
+cd D:\vsProjects\person-vite
 npm run dev
 ```
 
@@ -138,7 +138,7 @@ MIT License - 可自由使用和修改
 
 ---
 
-**项目状态**: ✅ 完成并可运行  
-**构建状态**: ✅ 通过  
-**类型检查**: ✅ 通过  
+**项目状态**: ✅ 完成并可运行
+**构建状态**: ✅ 通过
+**类型检查**: ✅ 通过
 **准备就绪**: 🚀 可以开始使用！

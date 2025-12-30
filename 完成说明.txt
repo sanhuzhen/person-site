@@ -1,4 +1,4 @@
-✅ Preason Vite 项目已完成！
+✅ Person Vite 项目已完成！
 
 🎯 核心特点：
 - 纯配置驱动（config.json）

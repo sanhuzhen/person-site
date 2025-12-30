@@ -2,10 +2,9 @@
 
 ## 📝 配置文件位置
 
-你有两个配置文件可以修改：
+配置文件位置：
 
-1. **`config.json`** - 项目根目录 - 主配置文件
-2. **`public/config.json`** - 开发环境访问文件（自动同步）
+- **`config.json`** - 项目根目录 - 主配置文件
 
 ## 🎨 修改配置
 
@@ -141,7 +140,7 @@
 1. 打开浏览器开发者工具 (F12)
 2. 进入 Application/应用程序 标签
 3. 找到 Local Storage
-4. 删除 `preason-settings` 键
+4. 删除 `person-settings` 键
 
 ## ⚠️ 注意事项
 

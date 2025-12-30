@@ -1,8 +1,8 @@
-Preason Vite - 快速配置指南
+Person Vite - 快速配置指南
 ==========================
 
 📁 配置文件位置：
-   D:\vsProjects\preason-vite\config.json
+   D:\vsProjects\person-vite\config.json
 
 🚀 如何使用：
    1. 打开 config.json 文件

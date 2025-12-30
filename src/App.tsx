@@ -61,7 +61,7 @@ const App: React.FC = () => {
   return (
     <div className="app" style={{ backgroundColor: settings.theme.backgroundColor }}>
       <header className="app-header">
-        <h1>Preason 个人主页</h1>
+        <h1>Person 个人主页</h1>
       </header>
 
       <main className="app-main">
@@ -81,7 +81,7 @@ const App: React.FC = () => {
       </main>
 
       <footer className="app-footer">
-        <p>© 2024 Preason - 个人介绍页 | 使用 Vite + React 构建</p>
+        <p>© 2024 Person - 个人介绍页 | 使用 Vite + React 构建</p>
       </footer>
     </div>
   );

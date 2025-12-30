@@ -2,13 +2,13 @@
 
 ## 项目已创建完成！
 
-你的个人介绍页项目 `preason-vite` 已经成功创建并配置完成。
+你的个人介绍页项目 `person-vite` 已经成功创建并配置完成。
 
 ## 📋 如何使用
 
 ### 1. 启动开发服务器
 ```bash
-cd D:\vsProjects\preason-vite
+cd D:\vsProjects\person-vite
 npm run dev
 ```
 然后在浏览器中打开: `http://localhost:5173`
@@ -25,17 +25,17 @@ npm run dev
 
 ## 🎯 功能特点
 
-✅ **完全可定制** - 头像、昵称、描述  
-✅ **多列表管理** - 技能、项目、兴趣等  
-✅ **实时预览** - 即时看到修改效果  
-✅ **主题定制** - 颜色主题自由搭配  
-✅ **响应式设计** - 完美适配手机和电脑  
-✅ **本地存储** - 数据自动保存  
+✅ **完全可定制** - 头像、昵称、描述
+✅ **多列表管理** - 技能、项目、兴趣等
+✅ **实时预览** - 即时看到修改效果
+✅ **主题定制** - 颜色主题自由搭配
+✅ **响应式设计** - 完美适配手机和电脑
+✅ **本地存储** - 数据自动保存
 
 ## 📁 项目结构
 
 ```
-preason-vite/
+person-vite/
 ├── src/
 │   ├── components/          # React组件
 │   │   ├── Avatar.tsx       # 头像组件
@@ -88,7 +88,7 @@ const DEFAULT_SETTINGS: CustomSettings = {
 
 构建后的文件在 `dist/` 目录，可以部署到：
 - Vercel
-- Netlify  
+- Netlify
 - GitHub Pages
 - 阿里云/腾讯云静态托管
 
