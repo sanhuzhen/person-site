@@ -1,0 +1,20 @@
+{
+  "profile": {
+    "avatar": "https://avatars.githubusercontent.com/u/152247441?v=4",
+    "nickname": "sanhuzhen",
+    "description": "这是一个个人介绍页面，点击右上角的设置按钮来定制你的内容。你可以修改头像、昵称、描述，以及添加自定义列表项。"
+  },
+  "lists": {
+    "contact": [
+      { "id": "1", "title": "GitHub", "content": "@sanhuzhen", "icon": "🐙", "link": "https://github.com/sanhuzhen" },
+      { "id": "2", "title": "邮箱", "content": "sanhuzhen@foxmail.com", "icon": "📧", "link": "mailto:sanhuzhen@foxmail.com" },
+      { "id": "3", "title": "LinkedIn", "content": "个人职业主页", "icon": "💼", "link": "https://linkedin.com/in/sanhuzhen" },
+      { "id": "4", "title": "博客", "content": "技术文章与心得分享", "icon": "🖋️", "link": "#blog" }
+    ]
+  },
+  "theme": {
+    "primaryColor": "#000000",
+    "backgroundColor": "#ffffff",
+    "textColor": "#000000"
+  }
+}
