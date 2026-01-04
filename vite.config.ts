@@ -27,6 +27,7 @@ function copyConfigPlugin() {
 export default defineConfig({
   plugins: [react(), copyConfigPlugin()],
   publicDir: 'public',
+  base: './', // 为 GitHub Pages 设置相对路径
   build: {
     rollupOptions: {
       output: {

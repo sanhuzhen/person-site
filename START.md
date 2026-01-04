@@ -1,4 +1,4 @@
-# Person Vite - 个人介绍页
+# Person Site - 个人介绍页
 
 一个基于 Vite + React + TypeScript 构建的个性化个人介绍页面。
 
@@ -15,7 +15,7 @@
 
 ### 安装依赖
 ```bash
-cd person-vite
+cd person-site
 npm install
 ```
 
@@ -38,7 +38,7 @@ npm run preview
 ## 📁 项目结构
 
 ```
-person-vite/
+person-site/
 ├── src/
 │   ├── components/          # React 组件
 │   │   ├── Avatar.tsx       # 头像组件
